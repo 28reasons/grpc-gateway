@@ -2,7 +2,6 @@ module github.com/28reasons/grpc-gateway
 
 require (
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-resty/resty v0.0.0-20180405024425-f8815663de1e
 	github.com/golang/glog v0.0.0-20160126235308-23def4e6c14b
 	github.com/golang/protobuf v1.1.0
 	github.com/kr/pretty v0.1.0 // indirect
